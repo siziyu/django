@@ -1,2 +1,2 @@
 # django
-404 error
+404 not found
